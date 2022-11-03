@@ -1,0 +1,536 @@
+2140
+DL
+tinh nao o nuoc ta co dien tich lon nhat
+quang tri
+ha tinh
+quang binh
+nghe an
+D
+977
+DL
+nguon loi thuy san ven bo cua nuoc ta bị sut giam ro ret do
+nuoc bien dang cao
+khai thac qua muc
+co nhieu con bao
+sat lo bo bien
+B
+435
+VL1
+trang thai dung cua nguyen tu
+co the la trang thai co ban hoac kich thich
+chi co the la trang thai kich thich
+trang thai ma eclectron ngung chuyen dong
+chi la trang thai co ban
+A
+150
+KTMT
+doi voi thanh ghi trang thai,phat bieu nao sau day dung
+khong chua cac co phep toan
+chi chua cac co phep toan
+chua cac co dieu khien
+khong chua cac co dieu khien
+C
+140
+VL1
+gioi han quang dien phu thuoc vao
+ban chat kim loai
+dien ap giua ANOT va CATOT cua te bao quang dien
+buoc song cua anh sang chieu vao CATOT
+gien truong giua ANOT va CATOT
+A
+80
+DS
+song anh la gi
+la gom nhieu anh xa don anh
+la anh xa toan anh
+la hai anh xa don anh
+la vua don anh vua toan anh
+A
+350
+KTMT
+chuyen so 15 sang so nhi phan
+1111
+1011
+1101
+0001
+A
+302
+DL
+nuoc ta nam trong vung noi chi tuyen nen
+co nhiet do trung binh nam cao
+mua tap trung theo mua
+giau cac loai khoang san
+co cac quan dao xa bo
+A
+397
+TA1
+he was fascinated by the ....... car at the exhibition.
+red German old
+German old red
+old red German
+old German red
+B
+542
+KTMT
+1 MB = 
+2^15B
+2^10B
+2^20B
+2^50B
+C
+504
+DL
+lao dong nuoc ta hien nay
+tang nhanh, thieu viec lam
+doi dao , that nghiep it
+chu yeu cong nhan ky thuat cao
+tap trung toan bo o cong nghiep
+A
+449
+DL
+thu do cua nhat la
+TOKYO
+KYOTO
+OSAKA
+khong co thu do
+D
+764
+TA1
+My uncle lives a happy life..... his disability
+because of
+because
+though
+in spide of
+D
+572
+TA1
+Mike ....... hia favourite program on TV when the lights went out
+was watching
+is watching
+watched
+watches
+A
+893
+DL
+cac do thi o nuoc ta hien nay
+chu yeu la o kinh te nong nghiep
+co ty le thieu viec lam rat cao
+co thu truong tieu thu da dang
+tap trung sa so dan cu ca nuoc
+C
+1522
+DL
+cong nghiep nuoc ta hien nay 
+chi co khai thac
+co nhieu nghanh
+tap trung o mien nui
+san pham it da dang
+B
+1321
+VL1
+tu truong xoay
+co cac duong suc la duong cong kin
+co cac duong suc la duong thang vuong goc voi dien truong
+noi nao co dien truong bien thien noi do co tu truong xoay
+noi nao co dien truong khong doi noi do co tu truong xoay
+C
+1229
+TA1
+Mrs Brown will have Worded at this school for 30 years........
+by the time she retires
+when she retires
+as soon as she retires
+after she hed retires
+A
+1092
+KTMT
+1SECTOR =
+256 B
+512 B
+1024 B
+2048 B
+B
+1428
+VL1
+LAZE khong co dac diem nao duoi day
+cong suat lon
+do don sac cao
+do dinh duong cao
+cuong do lon
+A
+1362
+KTMT
+mot dia cung co 306 cyl,4heads,17sector/track co dung luong la
+5 MB
+7 MB
+10 MB
+12 MB
+C
+1499
+TA1
+...... the report to the manager, she decided to take a rest
+Having handed in
+Handed in
+to handed in
+Being handed in
+A
+2009
+DL
+van de co y nghia hang dau cua viec khai thac chieu sau trong nong nghiep o dong nam bo
+thuy loi
+bao ve rung
+trong rung
+tang dien tich dat
+A
+1725
+DL
+tiem nang thuy dien cua nuoc ta tap trung chu yeu o he thong
+song dong nai
+song hong 
+song ma
+song ca
+B
+1563
+DL
+khu vuc co nguon sinh vat duoi nuoc bi suy giam ro ret la
+vung cac dao, quan dao
+vung cua song, ven bien
+tiep giap song lon
+noi thuy thieu len cao
+B
+1964
+DL
+y nghia chu yeu cua viec phat trien co so ha tang giao thong van tai o bac trung bo la 
+thuc day phat trien kinh te xa hoi, thuan loi thu hut dau tu
+tao co so hinh thanh do thi moi, phan bo dan cu va lao dong
+day manh giao luu voi cac vung , thuc day phat trien du lich
+phuc vu nhu cau nguoi dan, khai thac tai nguyen thien nhien
+A
+2116
+TA1
+this restaurant is ..... with those who like Vietnamese food.
+popular
+populary
+popularise
+popularity
+A
+4550
+TA1
+Mark hopes.......a small part in the school play.
+to get
+getting
+get
+got
+A
+3642
+TA1
+Many students are worried ... the coming exam.
+about
+from
+to
+on
+A
+2656
+DL
+giai phap chu yeu de nang cao gia tri san suat cay cong nghiep lau nam o tay nguyen la 
+phat trien che bien,tang cuong xuat khau
+tang dau tu , mo rong vung chuyen canh
+thay doi co cau cay trong ,dung giong tot
+mo rong dien tich,chu trong viec thuy loi
+A
+2460
+KTMT
+mode dia chi tuc thi khong co dac diem nao
+toan hang la 1 phan cua lenh
+toan hang nam trong truong dia chi
+toan hang co the la toan hang nguon hoac dich
+toan hang chi co the la toan hang nguon
+C
+2255
+DL
+cay an qua o dong bang song cuu long hien nay phat trien theo huong tap trung do tac dong chu yeu cua
+chuyen doi co cau nong nghiep
+da dang hoa san xuat nong nghiep
+san xuat theo huong tham canh
+ung dung tien bo khoa hoc
+D
+2244
+TA1
+He's American,.....
+won't he
+didn't he
+doesn't he
+isn't he
+D
+2319
+DL
+ho nao sau day thuoc luu vuc song dong nai
+ho tri an
+ho hoa binh
+ho ke go
+ho thac ba
+A
+2486
+DL
+nhiet do trung binh hang nam cua noi nao sau day la thap nhat
+lung cu
+ha tien
+hue
+ha noi
+A
+2462
+KTMT
+S-RAM 6116 co bo nho
+2 KB
+4 KB
+8 KB
+16 KB
+A
+2574
+TA1
+Tom's brother asked him .... the music so that he could sleep.
+close down
+go up
+turn down
+stand up
+C
+3397
+TA1
+th flood victims...... with food and clean water by the volunteers.
+provided
+were provided
+was provided
+provide
+B
+3253
+KTMT
+dien tich tren d-ram se mat di sau
+2 MS
+3 MS
+4 MS
+5 MS
+A
+2841
+TA1
+when Linda was little, her mother used to ....her a bedtime story every night.
+tell
+spaek
+say
+talk
+A
+3540
+TA1
+as the reson turns from spring to the summer ,some people feel a bit under the .... and can't concentrate fully on their work
+storm
+weather
+climate
+rain
+B
+4330
+VL1
+laze la nguon sang phat ra mot chum sang cuong do lon dua tren hien tuong
+phat quang
+phat xa cam ung
+cong huong anh sang
+phan xa loc lua
+B
+4142
+VL1
+khi mot dien truong bien thien se sinh ra
+dien truong xoay
+tu truong xoay
+mot dong dien
+tu truong va dien truong bien thien
+B
+3811
+TA1
+......... it is , the more comfortable we fell
+hotter
+the hotter
+hotest
+the hottest
+B
+3971
+TA1
+the students form other schools have to pay a small .... to join th club.
+fee
+wag
+salary
+fare
+A
+4252
+TA1
+James had a cosy birthday party at home last Friday in the ..... of his clode friends.
+company
+bussiness
+atmosphere
+residence
+A
+4212
+TA1
+it's geat to go out such a LOVELY day.
+ugly
+beautiful
+old
+modern
+B
+4464
+KTDH
+cau 5 do hoa
+s
+d
+s
+s
+B
+4409
+KTDH
+cau 3 do hoa
+s
+s
+s
+d
+D
+4383
+KTDH
+cau 2 do hoa
+d
+s
+s
+s
+A
+4432
+KTDH
+cau 4 do hoa
+s
+d
+s
+s
+B
+4533
+KTDH
+cau 7 do hoa
+s
+s
+s
+d
+D
+4504
+KTDH
+cau 6 do hoa
+s
+s
+d
+s
+C
+4794
+KTDH
+cau 12 do hoa
+s
+s
+s
+d
+D
+4605
+KTDH
+cau 9 do hoa
+s
+d
+s
+s
+B
+4579
+KTDH
+cau 8 do hoa
+s
+d
+s
+s
+B
+4556
+KTDH
+cau 8 do hoa
+d
+s
+s
+s
+A
+4771
+KTDH
+cau 11 do hoa
+d
+s
+s
+s
+A
+4631
+KTDH
+cau 10 do hoa
+s
+s
+d
+s
+C
+6410
+VL1
+dien truong xoay la dien truong
+xuat hien tai noi co tu truong bien thien
+gia cua hai ban tu dien co dien tich khong doi
+cua cac dien tich dung yen
+co cac duong suc khong khep kin
+A
+5283
+KTMT
+mot cpu su dung xung clock 12mhz. mot chuong trinh dung mot chu ky gom 12 chu ky may co toc do la
+0,5 MIPS
+1 MIPS
+1,5 MIPS
+2 MIPS
+B
+4820
+KTDH
+cau 13 do hoa
+s
+d
+s
+s
+B
+6359
+DL
+bien phap de tranh thiet hai khi co bao manh o nuoc ta la 
+chong chay rung
+xay ho tich nuoc
+so tan dan
+ban hanh sach do
+C
+8432
+VL1
+chum sang laze rubi phat ra mau
+trang
+xanh
+do
+vang
+C
+6500
+VL1
+dien truong xoay la dien truong
+co cac duong cong khep kin
+co cac duong suc khong khep kin
+gia hai ban tu co dien tich khong doi
+cua cac dien tich dung yen
+A
+8439
+VL1
+cac buc xa trong day Banme thuoc vung nao trong cac vung sau
+vung hong ngoai
+1 phan anh sang nhin thay,mot phan vung tu ngoai
+vung tu ngoai
+anh sang nhin thay
+B
+9202
+VL1
+song dien tu
+la song doc hoac song ngang
+la dien tu truong lan truyen trong khong gian
+co thanh phan dien tu truong va thanh phan tu truong tai mot diem dao dong cung phuong
+khong truyen duoc trong chan khong
+B
